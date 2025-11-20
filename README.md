@@ -1,2 +1,2 @@
 # djnago
-Learning Django
+Chai aur Django
